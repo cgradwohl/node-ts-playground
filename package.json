@@ -9,7 +9,7 @@
     "prepare": "husky install",
     "build": "tsc",
     "build:watch": "tsc -w",
-    "nodemon": "npx nodemon ./build/index.js"
+    "nodemon": "npx nodemon"
   },
   "keywords": [],
   "author": "",
